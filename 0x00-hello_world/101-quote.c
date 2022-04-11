@@ -3,7 +3,7 @@
 /**
  *main - print to string
  *Description: print "and that piece of art is useful..." without using 'puts'
- *Return - 1
+ *Return: 1
  */
 
 int main(void)
@@ -19,5 +19,5 @@ __asm__ ("syscall"
 "D" (fd),
 "S" (s),
 "d" (l));
-return (1);
+  return (1);
 }
