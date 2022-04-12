@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h.
+#include <stdlib.h>
 #include <time.h>
 
 /**
- main - entry point
+ *main - entry point
  *Description: print combination of two digits
  *Return: 0
  */
