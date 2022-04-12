@@ -4,7 +4,7 @@
 /**
  *main - entry point
  *Description: print the last digit of the number stored
- *return: 0
+ *Return: 0
 */
 
 int main(void)
