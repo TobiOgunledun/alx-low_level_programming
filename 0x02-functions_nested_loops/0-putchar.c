@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <main.h>
 
 /**
  *main - entry point
- *Description: print _putchar followd by newline
+ *Description: print _putchar followed by newline
  *Return: 0
  */
 
@@ -15,7 +16,7 @@ _putchar('u');
 _putchar('t');
 _putchar('c');
 _putchar('h');
-_putchar('a')[B;
+_putchar('a');
 _putchar('r');
 _putchar('\n');
 
