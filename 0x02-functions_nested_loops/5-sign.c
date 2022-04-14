@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *main - check the code
+ *print_sign - check the code
  *
  *Description: print sign in lowercase and uppercase
  *
