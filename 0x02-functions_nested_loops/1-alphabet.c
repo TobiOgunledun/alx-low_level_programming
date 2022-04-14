@@ -6,8 +6,8 @@
  *Description: print alphabet in lowercase
  *
  *Return: 0
- [C*/
- */[C
+ */
+
 
 void print_alphabet(void)
 {
