@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *_isalpha - check the code
+ *@c: value
  *Description: check if alphabet
  *Return: 1 if true, 0 if false
  */
