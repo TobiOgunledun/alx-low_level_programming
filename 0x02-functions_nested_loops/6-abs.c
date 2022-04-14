@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- *main - check the code
+ *_abs- check the code
  *Description: print absolute value
  *Return: 0
  */
