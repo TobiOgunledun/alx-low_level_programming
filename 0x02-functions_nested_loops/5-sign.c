@@ -5,6 +5,7 @@
  *Description: print sign in lowercase and uppercase
  *
  *Return: 0
+ */
 
 int print_sign(int n)
 {
