@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *main - entry point
+ *_islower - entry point
  *Description: print short description
  *Return: 0
  */
