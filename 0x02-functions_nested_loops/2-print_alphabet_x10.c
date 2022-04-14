@@ -4,22 +4,22 @@
  *
  *Description: print 10 times the alphabet in lowercase
  *
- *Return: 0
+ *Return: void
  */
 void print_alphabet_x10(void)
 {
-	int alphabet;
-	int count;
-
-	count = 0;
-	while (count < 10)
+	int c;
+	int i = 0;
+	
+	while (i < 10)
 	{
-		for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+		c = 'a';
+		while (c <= 'z')
 		{
-			_putchar(alphabet);
+			_putchar(c);
+			c++;
 		}
-
-		count++;
-	_putchar('\n');
+		_putchar('\n');
+		i++;
 	}
 }
