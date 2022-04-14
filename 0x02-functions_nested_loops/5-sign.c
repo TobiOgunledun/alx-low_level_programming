@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *print_sign - check the code
- *
+ *@n: value
  *Description: print sign in lowercase and uppercase
  *
  *Return: 0
