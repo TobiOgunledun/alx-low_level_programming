@@ -2,6 +2,7 @@
 #include <stdio.h>
 /**
  *_abs- check the code
+ *@n: value
  *Description: print absolute value
  *Return: 0
  */
