@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *_islower - entry point
+ *@c: value to be compared
  *Description: print short description
  *Return: 0
  */
