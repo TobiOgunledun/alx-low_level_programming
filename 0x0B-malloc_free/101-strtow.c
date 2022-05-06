@@ -7,7 +7,9 @@
  */
 int word_len(char *str);
 int count_words(char *str);
-char **strtow(char *str)
+char **strtow(char *str);
+
+int word_len(char *str)
 {
 	char **ptr;
 	int i, k, len, start, end, j = 0;
