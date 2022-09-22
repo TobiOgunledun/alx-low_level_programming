@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -8,11 +8,10 @@ nclude "main.h"
  * Return; 0
  */
 
-
 void swap_int(int *a, int *b)
 
 {
-	*a += *b;
-	*b = *a - *b;
-	*a = *a - *b;
+*a += *b;
+*b = *a - *b;
+*a = *a - *b;
 }
